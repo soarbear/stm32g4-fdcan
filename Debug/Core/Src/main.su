@@ -1,0 +1,11 @@
+../Drivers/CMSIS/Include/core_cm4.h:2059:26:ITM_SendChar	16	static,ignoring_inline_asm
+../Core/Src/main.c:80:6:HAL_FDCAN_RxFifo0Callback	24	static
+../Core/Src/main.c:110:6:HAL_FDCAN_RxFifo1Callback	24	static
+../Core/Src/main.c:139:5:__io_putchar	16	static
+../Core/Src/main.c:149:5:main	16	static
+../Core/Src/main.c:250:6:SystemClock_Config	88	static
+../Core/Src/main.c:297:13:MX_FDCAN1_Init	32	static
+../Core/Src/main.c:353:13:MX_FDCAN2_Init	32	static
+../Core/Src/main.c:409:13:MX_LPUART1_UART_Init	8	static
+../Core/Src/main.c:456:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:500:6:Error_Handler	8	static,ignoring_inline_asm

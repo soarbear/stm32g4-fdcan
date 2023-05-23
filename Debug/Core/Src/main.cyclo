@@ -1,0 +1,11 @@
+core_cm4.h:2059:26:ITM_SendChar	4
+main.c:80:6:HAL_FDCAN_RxFifo0Callback	6
+main.c:110:6:HAL_FDCAN_RxFifo1Callback	6
+main.c:139:5:__io_putchar	1
+main.c:149:5:main	7
+main.c:250:6:SystemClock_Config	3
+main.c:297:13:MX_FDCAN1_Init	3
+main.c:353:13:MX_FDCAN2_Init	3
+main.c:409:13:MX_LPUART1_UART_Init	5
+main.c:456:13:MX_GPIO_Init	1
+main.c:500:6:Error_Handler	1
